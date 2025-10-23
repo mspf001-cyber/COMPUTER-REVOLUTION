@@ -16,27 +16,27 @@ This cycle of abstract logic -> physical material -> abstract software -> new ha
 
 This repository is structured in three parts, mirroring the report:
 
-* **[PART 1: The History](./PART_1_THE_HISTORY/README.md)**
+* **[PART 1: The History](./part-1-the-history)**
     * A chronological history detailing the key epochs of innovation and how each built upon the last.
 
-* **[PART 2: The Present](./PART_2_PRESENT_TECHNOPOLY/README.md)**
+* **[PART 2: The Present](./part-2-the-present)**
     * An ecosystem analysis of the contemporary "Technopoly" as of Q4 2025, dissecting the corporations and individuals who dominate it.
 
-* **[PART 3: The Future](./PART_3_FUTURE_REVOLUTIONS.md)**
+* **[PART 3: The Future](./part-3-the-future)**
     * A speculative forecast of ten plausible, interconnected, and paradigm-shifting technological revolutions.
 
-* **[Conclusion](./CONCLUSION.md)**
+* **[Conclusion](./conclusion)**
     * A final summary of the continuum and its implications.
-      # Part 1: A Chronological History of the Digital Age
+      # PART 1: The History
 
 The evolution of computer science is not a simple sequence of inventions but a recurring cycle of abstraction and materialization. A breakthrough in abstract thought provides the blueprint for physical machines. The limitations of these machines necessitate new layers of abstraction (software), which in turn drive demand for new hardware. This section details this compounding cycle through its key epochs.
 
 
-1.  **[The Theoretical Foundations (Pre-1940s)](./01_Theoretical_Foundations.md)**
+1.  **[The Theoretical Foundations (Pre-1940s)](./01-theoretical-foundations)**
     * *Key Figures*: Babbage, Lovelace, Boole, Turing
     * *Concept*: The essential architecture of computation was conceived before any electronic hardware existed.
 
-2.  **[The Dawn of Electronic Computing (1940s-1950s)](./02_Dawn_of_Electronic_Computing.md)**
+2.  **[The Dawn of Electronic Computing (1940s-1950s)](./02-dawn-of-electronic-computing)**
     * *Key Inventions*: ENIAC, The Transistor
     * *Concept*: WWII served as a catalyst, transforming abstract theories into functioning electronic hardware.
 
