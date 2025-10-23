@@ -16,7 +16,7 @@ This cycle of abstract logic -> physical material -> abstract software -> new ha
 
 This repository is structured in three parts, mirroring the report:
 
-* **[PART 1: The History](#part-1-the-history)/README.md)**
+* **[PART 1: The History](./PART_1_THE_HISTORY/README.md)**
     * A chronological history detailing the key epochs of innovation and how each built upon the last.
 
 * **[PART 2: The Present](./PART_2_PRESENT_TECHNOPOLY/README.md)**
@@ -31,7 +31,6 @@ This repository is structured in three parts, mirroring the report:
 
 The evolution of computer science is not a simple sequence of inventions but a recurring cycle of abstraction and materialization. A breakthrough in abstract thought provides the blueprint for physical machines. The limitations of these machines necessitate new layers of abstraction (software), which in turn drive demand for new hardware. This section details this compounding cycle through its key epochs.
 
-##(#part-1-the-history)
 
 1.  **[The Theoretical Foundations (Pre-1940s)](./01_Theoretical_Foundations.md)**
     * *Key Figures*: Babbage, Lovelace, Boole, Turing
