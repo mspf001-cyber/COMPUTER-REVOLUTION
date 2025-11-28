@@ -19,44 +19,44 @@ This repository is structured in three parts, mirroring the report:
 - [PART 1: The History](#part-1-the-history)
     * A chronological history detailing the key epochs of innovation and how each built upon the last.
 
-* **[PART 2: The Present](./part-2-the-present)**
-    * An ecosystem analysis of the contemporary "Technopoly" as of Q4 2025, dissecting the corporations and individuals who dominate it.
-
-* **[PART 3: The Future](./part-3-the-future)**
+- [PART 2: The Present](#part-2-the-present)
+    * An ecosystem analysis of the contemporary "Technopoly" as of Q4 2025, dissecting the corporations and individuals who dominate it. 
+ 
+- [PART 3: The Future](#part-3-the-future)
     * A speculative forecast of ten plausible, interconnected, and paradigm-shifting technological revolutions.
 
-* **[Conclusion](./conclusion)**
+- [Conclusion](#conclusion)
     * A final summary of the continuum and its implications.
       # PART 1: The History
 
 The evolution of computer science is not a simple sequence of inventions but a recurring cycle of abstraction and materialization. A breakthrough in abstract thought provides the blueprint for physical machines. The limitations of these machines necessitate new layers of abstraction (software), which in turn drive demand for new hardware. This section details this compounding cycle through its key epochs.
 
 
-1.  **[The Theoretical Foundations (Pre-1940s)](./01-theoretical-foundations)**
+1.- [The Theoretical Foundations (Pre-1940s)](#01-theoretical-foundations)
     * *Key Figures*: Babbage, Lovelace, Boole, Turing
     * *Concept*: The essential architecture of computation was conceived before any electronic hardware existed.
 
-2.  **[The Dawn of Electronic Computing (1940s-1950s)](./02-dawn-of-electronic-computing)**
+2. - [The Dawn of Electronic Computing (1940s-1950s)](#02-dawn-of-electronic-computing)
     * *Key Inventions*: ENIAC, The Transistor
     * *Concept*: WWII served as a catalyst, transforming abstract theories into functioning electronic hardware.
 
-3.  **[The Mainframe Era & Integrated Circuits (1960s-1970s)](./03_Mainframe_Era.md)**
+3. - [The Mainframe Era & Integrated Circuits (1960s-1970s)](#03_Mainframe_Era.md)
     * *Key Inventions*: IBM System/360, COBOL/FORTRAN, The Integrated Circuit
     * *Concept*: Computing becomes centralized in large corporations, enabled by the consolidation of circuits onto a single chip.
 
-4.  **[The Personal Computer Revolution (1970s-1980s)](./04_Personal_Computer_Revolution.md)**
+4. - [The Personal Computer Revolution (1970s-1980s)](#04_Personal_Computer_Revolution.md)
     * *Key Inventions*: Microprocessor (Intel 4004), Apple II, MS-DOS, The GUI
     * *Concept*: The "Great Decentralization," moving computing from the corporate data center to the individual's desk.
 
-5.  **[The Internet & Web Era (1990-2000s)](./05_Internet_Web_Era.md)**
+5. - [The Internet & Web Era (1990-2000s)](#05_Internet_Web_Era.md)
     * *Key Inventions*: TCP/IP, The World Wide Web (HTML, HTTP, URL), The Dot-Com Boom
     * *Concept*: Once computers were on desks, the next logical step was to connect them, evolving a military project into a global public network.
 
-6.  **[The Mobile, Cloud, and Social Era (2000s-2010s)](./06_Mobile_Cloud_Social_Era.md)**
+6. - [The Mobile, Cloud, and Social Era (2000s-2010s)](#06_Mobile_Cloud_Social_Era.md)
     * *Key Inventions*: The Smartphone (iPhone), Cloud Computing (AWS), Social Media (Facebook)
     * *Concept*: A new trinity of technologies untethered computing from the desk and centralized infrastructure into a global utility.
 
-7.  **[The AI and Big Data Era (2010s-Present)](./07_AI_Big_Data_Era.md)**
+7. - [The AI and Big Data Era (2010s-Present)](#07_AI_Big_Data_Era.md)
     * *Key Inventions*: AlexNet, The Transformer Architecture, Large Language Models (LLMs)
     * *Concept*: The convergence of massive data (from mobile/social) and massive compute (from the cloud) created the necessary conditions for the modern AI revolution.
       # 01: The Theoretical Foundations (Pre-1940s)
@@ -237,10 +237,10 @@ This structure creates a formidable barrier to entry, as a new challenger must c
 
 This section is broken into two parts:
 
-1.  **[Corporate Titans](./01_Corporate_Titans.md)**
+1. - [Corporate Titans](#01_Corporate_Titans.md)
     * Analysis of the dominant companies (Nvidia, Microsoft, Apple, Google, Amazon, Meta, TSMC) that form the ecosystem's structure.
 
-2.  **[Individual Architects](./02_Individual_Architects.md)**
+2. - [Individual Architects](02_Individual_Architects.md)
     * Analysis of the key founders and leaders (Musk, Zuckerberg, Huang, etc.) whose vision and capital architected the current landscape.
       # 01: Corporate Titans (Q4 2025)
 
