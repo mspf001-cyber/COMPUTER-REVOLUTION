@@ -16,7 +16,7 @@ This cycle of abstract logic -> physical material -> abstract software -> new ha
 
 This repository is structured in three parts, mirroring the report:
 
-* **[PART 1: The History](./part-1-the-history)**
+* **[PART 1: The History](# part-1-the-history)**
     * A chronological history detailing the key epochs of innovation and how each built upon the last.
 
 * **[PART 2: The Present](./part-2-the-present)**
